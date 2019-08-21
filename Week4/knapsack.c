@@ -1,0 +1,1 @@
+int knapscak(unsigned)
